@@ -19,3 +19,6 @@ Evolutionary Algorithm as a replacement to neural networks
 - random matrix theory
 - yuval harari books
 - modeling the pde
+- https://news.ycombinator.com/item?id=18761083 
+- https://news.ycombinator.com/item?id=24620614
+- https://news.ycombinator.com/item?id=14486657
