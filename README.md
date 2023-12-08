@@ -5,7 +5,7 @@ Evolutionary Algorithm as a replacement to neural networks
 - male and female 
 - variability hypothesis
 - make the reward function binary that your genetic line survives the agent
--   hidden markov process
+    - hidden markov process
 - programmed death function
 - the food function is the minimization of the loss function
 - have a way for them to compete against each other
